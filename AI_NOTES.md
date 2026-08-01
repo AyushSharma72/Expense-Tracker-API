@@ -10,6 +10,7 @@ I used Claude and ChatGPT as coding assistants. I owned the main decisions and r
 - Express app setup, middlewares, Joi validators, and Winston logger
 - Some APIs were built completely by Claude (filter by category,delete expense, create expense) — routes, controllers, services, and validation. I reviewed them in Postman before keeping them.
 - First drafts of tests, Dockerfile, docker-compose, and README
+- All test cases are written by AI
 
 **Written and reviewed by me**
 - Overall architecture, stack choices, and API design
